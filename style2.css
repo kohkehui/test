@@ -23,15 +23,12 @@ h1 {
 	color: white;
 	text-align: center;
 	padding: 10px;
-}
-
-#content1 {
-    padding: 20px;	
 }	
 
 #nav {
 	width: 180px;
 	float: left;
+	padding: 10px;
 }
 
 #nav ul {
